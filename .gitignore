@@ -1,3 +1,5 @@
 ### inspec
 tests/inspec/shopware-container/inspec.lock
 tests/inspec/shopware-container/attributes.yml
+
+.env
